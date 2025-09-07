@@ -23,7 +23,7 @@
   
 ## Установка Склонируйте репозиторий и перейдите в папку проекта:
 bash
-git clone https://github.com/ТВОЙ_ЮЗЕРНЕЙМ/VoidGate.git
+git clone https://github.com/Rasyatka/VoidGate.git
 
 cd VoidGate
 
@@ -56,7 +56,7 @@ The project includes profile management and configuration via a config file.
 ## Installation
 Clone the repository and navigate to the project folder:
 ```bash
-git clone https://github.com/YOUR_USERNAME/VoidGate.git
+git clone https://github.com/Rasyatka/VoidGate.git
 ```
 ```bash
 cd VoidGate
