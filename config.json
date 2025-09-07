@@ -1,0 +1,18 @@
+{
+  "client_ip": "auto",
+  "protocol_ports": {
+    "SOCKS5": 1081,
+    "HTTP": 8080,
+    "HTTPS": 8443,
+    "FTP": 2121
+  },
+  "profiles": {
+    "HTTP": {
+      "name": "Test VPS",
+      "ip": "123.45.67.89",
+      "port": 8080,
+      "username": "",
+      "password": ""
+    }
+  }
+}

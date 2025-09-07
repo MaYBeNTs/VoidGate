@@ -1,0 +1,9 @@
+[
+    {
+        "name": "My vps",
+        "vps_host": "YOUR.VPS.IP.HERE",
+        "vps_port": "12345",
+        "username": "login",
+        "password": "password"
+    }
+]
