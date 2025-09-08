@@ -34,7 +34,7 @@ cd VoidGate
 python3 main.py
 ```
 ## Лицензия
-Этот проект распространяется под лицензией MIT. Подробнее
+Этот проект распространяется под лицензией MIT. Подробнее см. файл LICENSE.
 
 # VoidGate EN
 
@@ -68,3 +68,6 @@ cd VoidGate
 ```bash
 python3 main.py
 ```
+
+##LICENSE
+This project is distributed under the MIT license. For more information, see the LICENSE file.
