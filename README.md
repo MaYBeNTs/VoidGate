@@ -69,5 +69,5 @@ cd VoidGate
 python3 main.py
 ```
 
-##LICENSE
+## LICENSE
 This project is distributed under the MIT license. For more information, see the LICENSE file.
